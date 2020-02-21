@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageButton;
-
+////////////////////////////////////////////////////////////////////////////
 public class Homepage extends AppCompatActivity {
     private ImageButton buttonMaps;
 
